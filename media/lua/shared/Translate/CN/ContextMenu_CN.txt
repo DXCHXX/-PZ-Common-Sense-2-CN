@@ -1,6 +1,0 @@
-ContextMenu_CN = {
-    ContextMenu_Pry_open = "撬开",
-	ContextMenu_WashEquippedOnly = "仅装备",
-    ContextMenu_WashUnequippedOnly = "仅未装备",
-    ContextMenu_WashWeaponsOnly = "仅武器",
-}
